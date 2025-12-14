@@ -1,0 +1,38 @@
+
+#uploadedImage {
+    max-width: 400px;       
+}
+
+h1{
+    border: none;
+    border-radius: 50px;
+    background-color: white;
+    color: rgb(49, 108, 24);
+    margin: 40px;
+    padding: 20px;
+    font-size: 30px;
+    -webkit-box-shadow: 0px 2px 15px 3px rgb(96, 190, 56); 
+    box-shadow: 0px 2px 15px 3px rgb(96, 190, 56);
+}
+
+ body {
+     text-align: center;
+     border: 100px;
+     background-color: rgb(205, 243, 192);
+     font-family: Airal;
+     margin: 40px;
+  }
+
+#imageInput {
+    padding: 20px 20px;
+    border: none;
+    background-color: white;
+    border-radius: 50px;
+    -webkit-box-shadow: 0px 2px 15px 3px rgb(96, 190, 56); 
+    box-shadow: 0px 2px 15px 3px rgb(96, 190, 56);
+    margin: 10px;
+}
+
+p {
+    color: rgb(45, 94, 24);
+}
