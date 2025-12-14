@@ -13,6 +13,8 @@ h1{
     font-size: 30px;
     -webkit-box-shadow: 0px 2px 15px 3px rgb(96, 190, 56); 
     box-shadow: 0px 2px 15px 3px rgb(96, 190, 56);
+    width: 500px;
+    margin: auto;
 }
 
  body {
@@ -28,11 +30,22 @@ h1{
     border: none;
     background-color: white;
     border-radius: 50px;
-    -webkit-box-shadow: 0px 2px 15px 3px rgb(96, 190, 56); 
-    box-shadow: 0px 2px 15px 3px rgb(96, 190, 56);
     margin: 10px;
 }
 
 p {
     color: rgb(45, 94, 24);
+}
+
+
+#label-container {
+    color: rgb(51, 143, 126);
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+    background-color: white;
+    width: 200px;
+    margin: auto;
 }
